@@ -13,9 +13,9 @@
 
 Grow Plant application & Recursive Function practices
 Struggles:
-divide function for different plants
-divide button effects for different plants
-recursive fuction with making a new array
+- divide function for different plants
+- divide button effects for different plants
+- recursive fuction with making a new array
 
 ## Description
 
