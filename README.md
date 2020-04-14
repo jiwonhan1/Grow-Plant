@@ -9,6 +9,14 @@
 ![Languages](https://img.shields.io/github/languages/top/jiwon-seattle/Grow-Plant)
 [![MIT license](https://img.shields.io/badge/License-MIT-orange.svg)](https://lbesson.mit-license.org/)
 
+## 4/14/20 Work at Home Summary
+
+Grow Plant application & Recursive Function practices
+Struggles:
+divide function for different plants
+divide button effects for different plants
+recursive fuction with making a new array
+
 ## Description
 
 **An application that a user is able to grow plants.**
