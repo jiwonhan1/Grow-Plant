@@ -10,7 +10,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-orange.svg)](https://lbesson.mit-license.org/)
 
 #### 4/14/20 Work at Home Summary
-- Grow Plant application & Recursive Function practic
+- Grow Plant application & Recursive Function practice
 - Struggles:
   - divide function for different plants
   - divide button effects for different plants
